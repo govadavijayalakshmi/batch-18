@@ -1,0 +1,1 @@
+create table if not exits batch_18.sales as select * from bigquery s-public-data.iowa_liquor_sales.sales
